@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on: Improving React, Spring Boot skills and implementing microservices architecture.<br><br> I’m looking to collaborate on: Fullstack projects<br> I’m currently learning: AWS Services, Springboot and Advance React.<br><br> I love thinking about philosophical content.
+ I’m currently working on: Improving React, Spring Boot skills and implementing microservices architecture.<br><br> I’m looking to collaborate on: Fullstack projects<br> AWS Certified Developer - Associate, Springboot, Angular, React .<br><br> I love thinking and talking about philosophical content.
 
 
 ## 🌐 Socials:
